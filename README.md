@@ -1,4 +1,4 @@
-# python-final-prject
+# python-final-project
 Zepto Sales Data Analysis – README Points
 🔹 Project Objective
 
