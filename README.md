@@ -66,4 +66,10 @@ Observed monthly sales growth patterns
 
 Evaluated delivery performance efficiency
 
+<img width="1251" height="744" alt="image" src="https://github.com/user-attachments/assets/ba091516-de75-4b73-b155-2fb974360c47" />
+<img width="1251" height="744" alt="Screenshot 2026-02-22 175858" src="https://github.com/user-attachments/assets/2dbea59f-fc41-4d52-b36f-bfa57d912575" />
+
+
+
+
 
